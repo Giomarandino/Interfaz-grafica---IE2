@@ -69,7 +69,7 @@ La implementación final de cada paquete se documentará una vez completada y ve
 
 ## 8. Diseño UX/UI
 
-**Prototipo de Figma:** 
+**Prototipo de Figma:** https://www.figma.com/design/BFfixiiBMYoSJ0QhFdhzeP/Prototipos-Ecosistema-IE2?node-id=0-1&t=5bO7DYPYat6e164m-1
 
 El diseño contempla las pantallas de configuración, simulación en curso y reporte final, junto con los estados de error y confirmación.
 
