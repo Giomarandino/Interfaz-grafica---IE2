@@ -15,7 +15,7 @@ La simulación mantiene las reglas de la primera instancia: reproducción, alime
 - **Valentina Caramanico**
 - **Giovanna Marandino** 
 - **Paloma Corbalán** 
-**Docente:** Giuliana Dealbera Etchechoury.
+- **Docente:** Giuliana Dealbera Etchechoury.
 
 ## 3. Tecnologías utilizadas
 
